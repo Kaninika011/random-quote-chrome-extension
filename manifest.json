@@ -7,7 +7,7 @@
         "default_icon": "logoex.png"
     },
     "icons":{
-      "500":"logoex.png"
+      "130":"logoex.png"
     },
     "permissions": ["activeTab"]
      
